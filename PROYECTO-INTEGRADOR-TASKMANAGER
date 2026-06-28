@@ -1,0 +1,14 @@
+Proyecto-Integrador-TaskManager
+│
+├── codigo
+│      └── taskmanager_uide.py
+│
+├── diagramas
+│      ├── casos_uso.png
+│      ├── flujo.png
+│      └── arquitectura.png
+│
+├── informe
+│      └── Proyecto_Integrador.pdf
+│
+└── README.md
